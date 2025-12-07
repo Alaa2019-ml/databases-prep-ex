@@ -1,0 +1,84 @@
+[{
+  "_id": {
+    "$oid": "6935b79a1822626b9841cb8d"
+  },
+  "name": "Shafut",
+  "categories": [
+    "Yemeni",
+    "Traditional",
+    "Cold Dish",
+    "Side Dish"
+  ],
+  "ingredients": [
+    {
+      "name": "Lahooh (Yemeni spongy bread)",
+      "amount": "2–3 pieces"
+    },
+    {
+      "name": "Plain yogurt",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Buttermilk or laban (optional)",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Fresh mint, chopped",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Green onion, chopped",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Coriander (cilantro), chopped",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Cucumber, finely chopped (optional)",
+      "amount": "1 small"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Chili or zhug (optional)",
+      "amount": "to taste"
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "description": "Cut the lahooh bread into medium-sized squares and place them in a shallow serving dish."
+    },
+    {
+      "order": 2,
+      "description": "Whisk the yogurt (and buttermilk if using) until smooth."
+    },
+    {
+      "order": 3,
+      "description": "Add salt, cumin, and chili/zhug to the yogurt mixture and mix well."
+    },
+    {
+      "order": 4,
+      "description": "Pour the yogurt mixture evenly over the lahooh pieces, making sure they are fully soaked."
+    },
+    {
+      "order": 5,
+      "description": "Sprinkle chopped mint, green onion, coriander, and cucumber over the top."
+    },
+    {
+      "order": 6,
+      "description": "Let the shafut rest for 5–10 minutes so the bread absorbs the yogurt."
+    },
+    {
+      "order": 7,
+      "description": "Serve cold and enjoy."
+    }
+  ]
+}]
